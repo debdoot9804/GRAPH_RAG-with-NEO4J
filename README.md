@@ -13,21 +13,21 @@ Under notebooks folder, the following files are present:
 
 1)GraphDB_data_preparation.ipynb:  
 
-Creates a connection with Neo4j Client.
+✨Creates a connection with Neo4j Client.
 
-Ingests the CSV tabular dataset using Cyoher Query to create Knowledge graph
+✨Ingests the CSV tabular dataset using Cyoher Query to create Knowledge graph
                                   
-Creates Vector Index for the Neo4j
+✨Creates Vector Index for the Neo4j
 
 
 2)RAG_Retrieval.ipynb:    
-Creates a connection with Neo4j Client
+✨Creates a connection with Neo4j Client
   
-Embeds user's query
+✨Embeds user's query
                          
-Performs Similarity Search on the GraphDB Neo4j
+✨Performs Similarity Search on the GraphDB Neo4j
                          
-Uses LLM to produce final result to user.
+✨Uses LLM to produce final result to user.
                           
 
 ### Movie Knowledge Graph
