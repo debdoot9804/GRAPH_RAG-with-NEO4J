@@ -10,6 +10,7 @@ Neo4j boasts a powerful and elegant architecture designed specifically for handl
 ### Folders and Files
 ---------------------------------------------------------------------------------------------------------------------------
 Under notebooks folder, the following files are present:
+
 1)GraphDB_data_preparation.ipynb:  Creates a connection with Neo4j Client.
                                    Ingests the CSV tabular dataset using Cyoher Query to create Knowledge graph
                                    Creates Vector Index for the Neo4j
