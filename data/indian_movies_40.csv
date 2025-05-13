@@ -1,0 +1,41 @@
+movieId,released,title,actors,director,genres,imdbRating,similar_movie,tagline,location
+1,12/14/2001,Lagaan,Aamir Khan|Gracy Singh,Ashutosh Gowariker,Drama|Sport|Musical,8.1,Swades,Once upon a time in India...,India
+2,6/15/1994,Hum Aapke Hain Koun..!,Salman Khan|Madhuri Dixit,Sooraj R. Barjatya,Comedy|Drama|Romance,7.5,Vivah,Celebrate the joy of togetherness!,India
+3,7/26/2019,Super 30,Hrithik Roshan|Mrunal Thakur,Vikas Bahl,Biography|Drama,8,Chhichhore,Ab Raja Ka Beta Raja Nahi Banega...,India
+4,6/9/2006,Fanaa,Aamir Khan|Kajol,Kunal Kohli,Drama|Romance|Thriller,7.2,Rang De Basanti,Destroyed in love…,India
+5,12/18/2015,Bajirao Mastani,Ranveer Singh|Deepika Padukone,Sanjay Leela Bhansali,Action|Drama|History,7.5,Padmaavat,A Romance of a Warrior.,India
+6,6/27/2003,Kal Ho Naa Ho,Shah Rukh Khan|Preity Zinta,Nikkhil Advani,Comedy|Drama|Romance,7.9,K3G,A story of a lifetime…,India
+7,3/11/2022,The Kashmir Files,Anupam Kher|Mithun Chakraborty,Vivek Agnihotri,Drama|History,8.3,Article 15,The Right to Truth Prevails.,India
+8,12/25/2009,3 Idiots,Aamir Khan|R. Madhavan,Rajkumar Hirani,Comedy|Drama,8.4,PK,Chase excellence and success will follow.,India
+9,6/1/2018,Veere Di Wedding,Kareena Kapoor|Sonam Kapoor,Shashanka Ghosh,Comedy|Drama,6,Lipstick Under My Burkha,It's not a chick flick,India
+10,10/20/1995,Dilwale Dulhania Le Jayenge,Shah Rukh Khan|Kajol,Aditya Chopra,Drama|Romance,8.1,Mohabbatein,Come… Fall in Love,India
+11,7/6/2016,Sultan,Salman Khan|Anushka Sharma,Ali Abbas Zafar,Action|Drama|Romance,7,Bajrangi Bhaijaan,Wrestling is not a sport...,India
+12,1/10/2020,Tanhaji,Ajay Devgn|Saif Ali Khan,Om Raut,Action|Biography|Drama,7.6,Baahubali,The Unsung Warrior,India
+13,5/23/2014,Heropanti,Tiger Shroff|Kriti Sanon,Sabbir Khan,Action|Romance,5.3,Baaghi,Hero. Action. Romance.,India
+14,7/17/1998,Kuch Kuch Hota Hai,Shah Rukh Khan|Rani Mukerji,Karan Johar,Drama|Romance,7.6,Kal Ho Naa Ho,You know you're in love when...,India
+15,12/24/2021,Atrangi Re,Dhanush|Sara Ali Khan,Aanand L. Rai,Drama|Romance,6.3,Love Aaj Kal,Madness of Love,India
+16,8/15/2013,Madras Cafe,John Abraham|Nargis Fakhri,Shoojit Sircar,Action|Drama|Thriller,7.7,Raazi,Nothing is more dangerous than a common man,India
+17,9/5/2008,Rock On!!,Farhan Akhtar|Arjun Rampal,Abhishek Kapoor,Drama|Musical,7.7,Luck By Chance,Live your passion,India
+18,12/9/2011,The Dirty Picture,Vidya Balan|Emraan Hashmi,Milan Luthria,Biography|Drama,6.6,Tumhari Sulu,Indecent is the new decent,India
+19,11/30/2012,Kahaani,Vidya Balan|Nawazuddin Siddiqui,Sujoy Ghosh,Mystery|Thriller,8.1,Drishyam,A mother of a story,India
+20,11/12/2004,Veer-Zaara,Shah Rukh Khan|Preity Zinta,Yash Chopra,Drama|Romance|War,7.9,Kabhi Alvida Naa Kehna,"Crossing borders, winning hearts",India
+21,3/21/2019,Kesari,Akshay Kumar|Parineeti Chopra,Anurag Singh,Action|Drama|War,7.4,Uri,Bravery beyond borders,India
+22,11/17/2017,Tumhari Sulu,Vidya Balan|Manav Kaul,Suresh Triveni,Drama|Comedy,7,English Vinglish,Sulu is a rockstar!,India
+23,6/25/2004,Lakshya,Hrithik Roshan|Preity Zinta,Farhan Akhtar,Action|War|Drama,7.8,LOC Kargil,Victory through valor,India
+24,6/29/2001,Gadar,Sunny Deol|Amisha Patel,Anil Sharma,Action|Romance,7.3,Border,Love in the time of war,India
+25,12/24/2010,Tees Maar Khan,Akshay Kumar|Katrina Kaif,Farah Khan,Comedy|Drama,2.7,Hera Pheri,He's got a plan,India
+26,8/12/2016,Rustom,Akshay Kumar|Ileana D'Cruz,Tinu Suresh Desai,Crime|Thriller,7.1,Special 26,Justice has a new name,India
+27,7/14/2017,Jagga Jasoos,Ranbir Kapoor|Katrina Kaif,Anurag Basu,Adventure|Comedy,6.4,Barfi!,The boy with a wild heart,India
+28,4/5/2002,Aankhen,Amitabh Bachchan|Akshay Kumar,Vipul Amrutlal Shah,Thriller|Crime,7,Waqt,Eyes wide open,India
+29,12/9/2005,Bluffmaster!,Abhishek Bachchan|Priyanka Chopra,Rohan Sippy,Comedy|Drama,6.6,Salaam Namaste,He lost it all... to gain it back,India
+30,7/28/2006,Omkara,Ajay Devgn|Kareena Kapoor,Vishal Bhardwaj,Crime|Drama,7.9,Haider,Omkara naa jaane kitna badla...,India
+31,5/20/2011,Shaitan,Rajeev Khandelwal|Kalki Koechlin,Bejoy Nambiar,Action|Thriller,7.3,Shor in the City,Rage within,India
+32,7/20/2012,Cocktail,Saif Ali Khan|Deepika Padukone,Homi Adajania,Romance|Comedy,6.3,Finding Fanny,Sometimes love needs a second chance,India
+33,12/20/2013,Dhoom 3,Aamir Khan|Katrina Kaif,Vijay Krishna Acharya,Action|Thriller,5.4,War,The thief is back,India
+34,11/19/2021,Satyameva Jayate 2,John Abraham|Divya Khosla Kumar,Milap Zaveri,Action|Drama,4.8,Marjaavaan,Truth always wins,India
+35,11/10/2000,Mohabbatein,Shah Rukh Khan|Aishwarya Rai,Aditya Chopra,Drama|Romance,7,DDLJ,Love. Longing. Music.,India
+36,4/20/2018,October,Varun Dhawan|Banita Sandhu,Shoojit Sircar,Drama|Romance,7.5,Piku,Live for now,India
+37,3/13/2020,Angrezi Medium,Irrfan Khan|Radhika Madan,Homi Adajania,Drama|Comedy,7.3,Hindi Medium,Class goes international,India
+38,11/15/2019,Bala,Ayushmann Khurrana|Bhumi Pednekar,Amar Kaushik,Comedy|Drama,7.4,Dream Girl,Confidence is sexy,India
+39,9/13/2013,Shuddh Desi Romance,Sushant Singh Rajput|Parineeti Chopra,Maneesh Sharma,Romance|Comedy,6.9,Band Baaja Baaraat,Live love laugh,India
+40,11/9/2007,Om Shanti Om,Shah Rukh Khan|Deepika Padukone,Farah Khan,Comedy|Drama,6.7,Happy New Year,Rebirth of a star,India
