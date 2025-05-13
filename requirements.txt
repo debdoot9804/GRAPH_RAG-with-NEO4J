@@ -1,0 +1,7 @@
+langchain
+langchain-huggingface
+langchain_groq
+pydantic
+os
+python-dotenv
+langchain_community
