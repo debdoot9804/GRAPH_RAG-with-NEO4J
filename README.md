@@ -7,6 +7,19 @@ The dataset used was a movies dataset generated through ChatGpt for Indian movie
 --------------------------------------------------------------------------------------------------------------------------
 Neo4j boasts a powerful and elegant architecture designed specifically for handling complex, highly connected data. At its core lies the native graph storage and processing engine, purpose-built to store and traverse data as nodes, relationships, and properties—the foundational elements of the property graph model. Unlike traditional databases, Neo4j excels at uncovering patterns and connections through lightning-fast graph traversals powered by its intuitive Cypher query language. Its architecture ensures ACID compliance for reliable transactions, while offering horizontal scalability and fault tolerance through a robust leader-follower cluster setup. With Neo4j, data isn’t just stored—it’s meaningfully connected and effortlessly explored.
 
+### Folders and Files
+---------------------------------------------------------------------------------------------------------------------------
+Under notebooks folder, the following files are present:
+1)GraphDB_data_preparation.ipynb:  Creates a connection with Neo4j Client.
+                                   Ingests the CSV tabular dataset using Cyoher Query to create Knowledge graph
+                                   Creates Vector Index for the Neo4j
+
+2)RAG_Retrieval.ipynb:    Creates a connection with Neo4j Client
+                          Embeds user's query
+                          Performs Similarity Search on the GraphDB Neo4j
+                          Uses LLM to produce final result to user.
+                          
+
 ### Movie Knowledge Graph
 
 ![image](https://github.com/user-attachments/assets/b26334f8-78b9-4891-8951-e2d5078c0086)
